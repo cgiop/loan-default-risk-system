@@ -1,0 +1,19 @@
+# Ignore data and model files
+/data/
+/model/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore virtual environments
+venv/
+.env
