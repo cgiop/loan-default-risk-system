@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (big CSVs, Excel files, etc.)
+data/
+*.csv
+*.xlsx
+
+# Model files
+model/
+*.pkl
+
+# Environment files
+.env
+venv/
+*.egg-info/
+
+# VSCode settings
+.vscode/
